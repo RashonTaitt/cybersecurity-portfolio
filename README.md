@@ -73,8 +73,7 @@ The logs are simulated and do not represent a real security incident. A matching
 - Add a configurable failed-login threshold.
 - Verify that failed attempts occurred before successful authentication.
 - Export findings to a structured report.
-- Add automated tests for detection logic.
-- Expand the investigation with additional log sources.
+- Add automated tests for detection logic.- Expand the investigation with additional log sources.
 
 ## Disclaimer
 
